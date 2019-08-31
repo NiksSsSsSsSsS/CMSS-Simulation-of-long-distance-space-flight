@@ -232,7 +232,7 @@ DOI of latest state i.e. version:
 
 [![DOI](https://zenodo.org/badge/204130885.svg)](https://zenodo.org/badge/latestdoi/204130885)
 
-The procedure of the simulation can be cited dedicated: "Sommer, Thorsten, 2019. Simulation of 6300 year intergalactic journey. DOI: [10.17504/protocols.io.6zshf6e](https://doi.org/10.17504/protocols.io.6zshf6e).
+The procedure of the simulation can be cited dedicated: "Sommer, Thorsten, 2019. Simulation of 6300 year intergalactic journey. DOI: [10.17504/protocols.io.6zshf6e](https://doi.org/10.17504/protocols.io.6zshf6e)".
 
 ### References
 
