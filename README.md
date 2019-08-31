@@ -1,5 +1,7 @@
 ## Model Description
 
+[![DOI](https://zenodo.org/badge/204130885.svg)](https://zenodo.org/badge/latestdoi/204130885)
+
 ### Introduction
 
 This model for the [NetLogo system](https://github.com/NetLogo/NetLogo) is an attempt to recreate the experiment of Frédéric Marin and Camille Beluffi from 2018 [1] by means of ABM. The experiment deals with the questions of how to choose the initial crew of a spacecraft and how to regulate its reproduction in order to survive a 6,300 year intergalactic journey from Earth to the distant planet Proxima Centauri b.
@@ -224,6 +226,8 @@ It would lead to a situation in which only a few selected people would be allowe
 ## Citation and References
 
 ### Cite this Model
+[![DOI](https://zenodo.org/badge/204130885.svg)](https://zenodo.org/badge/latestdoi/204130885)
+
 This model can be cited in its entirety by citing the repository: "Sommer, Thorsten, 2019. Simulation of long-distance space flight. DOI: XXXX. Source Code: https://github.com/SommerEngineering/Simulation-of-long-distance-space-flight"
 
 The procedure of the simulation can be cited dedicated: "Sommer, Thorsten, 2019. Simulation of 6300 year intergalactic journey. DOI: [dx.doi.org/10.17504/protocols.io.6zshf6e](https://dx.doi.org/10.17504/protocols.io.6zshf6e).
