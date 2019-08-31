@@ -1564,9 +1564,9 @@ It would lead to a situation in which only a few selected people would be allowe
 ## Citation and References
 
 ### Cite this Model
-This model can be cited in its entirety by citing the repository: "Sommer, Thorsten, 2019. Simulation of long-distance space flight. DOI: XXXX. Source Code: https://github.com/SommerEngineering/Simulation-of-long-distance-space-flight"
+This model can be cited in its entirety by citing the repository: "Sommer, Thorsten (2019). Simulation of long-distance space flight. DOI: [10.5281/zenodo.3382922](https://doi.org/10.5281/zenodo.3382922)"
 
-The procedure of the simulation can be cited dedicated: "Sommer, Thorsten, 2019. Simulation of 6300 year intergalactic journey. DOI: [dx.doi.org/10.17504/protocols.io.6zshf6e](https://dx.doi.org/10.17504/protocols.io.6zshf6e).
+The procedure of the simulation can be cited as: "Sommer, Thorsten (2019). Simulation of 6300 year intergalactic journey. DOI: [dx.doi.org/10.17504/protocols.io.6zshf6e](https://doi.org/10.17504/protocols.io.6zshf6e).
 
 ### References
 
