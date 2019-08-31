@@ -229,6 +229,7 @@ It would lead to a situation in which only a few selected people would be allowe
 This model can be cited in its entirety by citing the repository: "Sommer, Thorsten, 2019. Simulation of long-distance space flight. DOI: [10.5281/zenodo.3382913](https://doi.org/10.5281/zenodo.3382913). Source Code: https://github.com/SommerEngineering/Simulation-of-long-distance-space-flight"
 
 DOI of latest state i.e. version:
+
 [![DOI](https://zenodo.org/badge/204130885.svg)](https://zenodo.org/badge/latestdoi/204130885)
 
 The procedure of the simulation can be cited dedicated: "Sommer, Thorsten, 2019. Simulation of 6300 year intergalactic journey. DOI: [10.17504/protocols.io.6zshf6e](https://doi.org/10.17504/protocols.io.6zshf6e).
